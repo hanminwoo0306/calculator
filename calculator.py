@@ -24,3 +24,4 @@ print('-'*20)
 print('당신의 은퇴 자금은: ' + str(budget))
 print('당신의 은퇴 자금은: 약' + str(budget_uk) + '억원')
 
+# 주석을 추가합니다.
